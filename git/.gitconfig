@@ -1,0 +1,9 @@
+[user]
+	name = Caio Vieira
+	email = vieiracaio@proton.me
+[core]
+	editor = nvim
+[pull]
+	rebase = true
+[init]
+	defaultBranch = main
