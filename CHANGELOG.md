@@ -5,3 +5,4 @@
 - 2022-04-07 rascunho da tela de dashboard
 - 2022-04-13 rascunho da tela de dashboard
 - 2022-04-28 ajusta CORS pro frontend local
+- 2022-04-28 corrige paginacao quebrada na listagem
