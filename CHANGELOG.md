@@ -7,3 +7,4 @@
 - 2022-04-28 ajusta CORS pro frontend local
 - 2022-04-28 corrige paginacao quebrada na listagem
 - 2022-04-28 corrige status 500 no healthcheck
+- 2022-04-28 fix: arredonda centavos no total
