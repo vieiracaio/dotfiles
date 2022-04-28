@@ -8,3 +8,4 @@
 - 2022-04-28 corrige paginacao quebrada na listagem
 - 2022-04-28 corrige status 500 no healthcheck
 - 2022-04-28 fix: arredonda centavos no total
+- 2022-04-28 organiza pastas src/
