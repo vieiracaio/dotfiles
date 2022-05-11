@@ -10,3 +10,4 @@
 - 2022-04-28 fix: arredonda centavos no total
 - 2022-04-28 organiza pastas src/
 - 2022-04-28 chore: prettier + eslint
+- 2022-05-11 chore: ci lint no github actions
