@@ -13,3 +13,4 @@
 - 2022-05-11 chore: ci lint no github actions
 - 2022-05-23 extrai helper de dinheiro
 - 2022-05-26 move types pra pasta types/
+- 2022-05-26 wip parser nfe
