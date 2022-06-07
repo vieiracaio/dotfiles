@@ -15,3 +15,4 @@
 - 2022-05-26 move types pra pasta types/
 - 2022-05-26 wip parser nfe
 - 2022-05-26 feat: exporta csv do mes
+- 2022-06-06 feat: webhook de pix (stub)
