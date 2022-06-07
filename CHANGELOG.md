@@ -17,3 +17,4 @@
 - 2022-05-26 feat: exporta csv do mes
 - 2022-06-06 feat: webhook de pix (stub)
 - 2022-06-06 middleware de request id
+- 2022-06-07 feat: soft delete em clientes
