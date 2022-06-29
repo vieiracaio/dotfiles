@@ -19,3 +19,4 @@
 - 2022-06-06 middleware de request id
 - 2022-06-07 feat: soft delete em clientes
 - 2022-06-07 feat: webhook de pix (stub)
+- 2022-06-29 fix: 400 quando cnpj vem com mascara
