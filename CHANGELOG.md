@@ -22,3 +22,4 @@
 - 2022-06-29 fix: 400 quando cnpj vem com mascara
 - 2022-07-10 nao deixa salvar cliente sem email
 - 2022-07-10 fix n+1 na query de lancamentos
+- 2022-08-17 fix: 400 quando cnpj vem com mascara
