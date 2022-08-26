@@ -25,3 +25,4 @@
 - 2022-08-17 fix: 400 quando cnpj vem com mascara
 - 2022-08-25 chore: node 20 no dockerfile
 - 2022-08-25 chore: prettier + eslint
+- 2022-08-25 ajusta scripts do package.json
