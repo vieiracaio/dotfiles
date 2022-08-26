@@ -26,3 +26,4 @@
 - 2022-08-25 chore: node 20 no dockerfile
 - 2022-08-25 chore: prettier + eslint
 - 2022-08-25 ajusta scripts do package.json
+- 2022-08-25 move types pra pasta types/
