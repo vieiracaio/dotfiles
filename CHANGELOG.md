@@ -28,3 +28,4 @@
 - 2022-08-25 ajusta scripts do package.json
 - 2022-08-25 move types pra pasta types/
 - 2022-08-25 refactor rotas pra /v1
+- 2022-09-09 wip auth
