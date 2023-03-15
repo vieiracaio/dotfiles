@@ -31,3 +31,4 @@
 - 2022-09-09 wip auth
 - 2023-01-12 adiciona testes do parser
 - 2023-02-23 feat: listagem de lancamentos com filtro
+- 2023-03-15 feat: recibo em pdf (html tosco)
