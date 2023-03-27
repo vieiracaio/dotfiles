@@ -34,3 +34,4 @@
 - 2023-03-15 feat: recibo em pdf (html tosco)
 - 2023-03-23 feat: busca por razao social
 - 2023-03-23 feat: busca por razao social
+- 2023-03-27 fix typo no mapper de categoria
