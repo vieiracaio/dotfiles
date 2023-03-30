@@ -35,3 +35,4 @@
 - 2023-03-23 feat: busca por razao social
 - 2023-03-23 feat: busca por razao social
 - 2023-03-27 fix typo no mapper de categoria
+- 2023-03-30 fix typo no mapper de categoria
