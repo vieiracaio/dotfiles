@@ -37,3 +37,4 @@
 - 2023-03-27 fix typo no mapper de categoria
 - 2023-03-30 fix typo no mapper de categoria
 - 2023-04-06 fix n+1 na query de lancamentos
+- 2023-05-21 ajusta CORS pro frontend local
