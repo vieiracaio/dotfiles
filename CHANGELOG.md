@@ -39,3 +39,4 @@
 - 2023-04-06 fix n+1 na query de lancamentos
 - 2023-05-21 ajusta CORS pro frontend local
 - 2023-05-24 organiza pastas src/
+- 2023-05-24 chore: ci lint no github actions
