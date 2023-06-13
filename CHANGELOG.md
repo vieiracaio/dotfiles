@@ -43,3 +43,4 @@
 - 2023-05-24 chore: ci lint no github actions
 - 2023-05-24 refactor rotas pra /v1
 - 2023-05-24 refactor rotas pra /v1
+- 2023-06-13 wip parser nfe
