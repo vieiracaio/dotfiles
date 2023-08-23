@@ -45,3 +45,4 @@
 - 2023-05-24 refactor rotas pra /v1
 - 2023-06-13 wip parser nfe
 - 2023-06-13 feat: listagem de lancamentos com filtro
+- 2023-08-23 feat: soft delete em clientes
