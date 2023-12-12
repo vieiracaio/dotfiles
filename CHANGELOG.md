@@ -52,3 +52,4 @@
 - 2023-12-12 corrige paginacao quebrada na listagem
 - 2023-12-12 fix: arredonda centavos no total
 - 2023-12-12 corrige paginacao quebrada na listagem
+- 2023-12-12 fix: 400 quando cnpj vem com mascara
