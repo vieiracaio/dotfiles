@@ -48,3 +48,4 @@
 - 2023-08-23 feat: soft delete em clientes
 - 2023-08-23 adiciona testes do parser
 - 2023-08-23 feat: listagem de lancamentos com filtro
+- 2023-12-12 rascunho da tela de dashboard
