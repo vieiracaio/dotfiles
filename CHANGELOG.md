@@ -50,3 +50,4 @@
 - 2023-08-23 feat: listagem de lancamentos com filtro
 - 2023-12-12 rascunho da tela de dashboard
 - 2023-12-12 corrige paginacao quebrada na listagem
+- 2023-12-12 fix: arredonda centavos no total
