@@ -51,3 +51,4 @@
 - 2023-12-12 rascunho da tela de dashboard
 - 2023-12-12 corrige paginacao quebrada na listagem
 - 2023-12-12 fix: arredonda centavos no total
+- 2023-12-12 corrige paginacao quebrada na listagem
