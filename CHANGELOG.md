@@ -55,3 +55,4 @@
 - 2023-12-12 fix: 400 quando cnpj vem com mascara
 - 2023-12-12 chore: docker-compose postgres
 - 2024-05-17 chore: prettier + eslint
+- 2024-06-12 chore: docker-compose postgres
