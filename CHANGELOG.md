@@ -58,3 +58,4 @@
 - 2024-06-12 chore: docker-compose postgres
 - 2024-10-07 refactor: tira god object de servico
 - 2024-10-07 extrai helper de dinheiro
+- 2024-10-15 tmp: guarda o schema
