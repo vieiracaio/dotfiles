@@ -63,3 +63,4 @@
 - 2025-04-10 feat: soft delete em clientes
 - 2025-04-10 adiciona testes do parser
 - 2025-04-10 suporte a ambiente staging
+- 2025-04-10 middleware de request id
