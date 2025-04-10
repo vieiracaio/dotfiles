@@ -60,3 +60,4 @@
 - 2024-10-07 extrai helper de dinheiro
 - 2024-10-15 tmp: guarda o schema
 - 2024-11-12 suporte a ambiente staging
+- 2025-04-10 feat: soft delete em clientes
