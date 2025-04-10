@@ -64,3 +64,4 @@
 - 2025-04-10 adiciona testes do parser
 - 2025-04-10 suporte a ambiente staging
 - 2025-04-10 middleware de request id
+- 2025-04-10 corrige paginacao quebrada na listagem
