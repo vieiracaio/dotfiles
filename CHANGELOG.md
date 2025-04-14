@@ -66,3 +66,4 @@
 - 2025-04-10 middleware de request id
 - 2025-04-10 corrige paginacao quebrada na listagem
 - 2025-04-10 fix: arredonda centavos no total
+- 2025-04-14 nao deixa salvar cliente sem email
