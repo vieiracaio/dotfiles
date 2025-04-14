@@ -68,3 +68,4 @@
 - 2025-04-10 fix: arredonda centavos no total
 - 2025-04-14 nao deixa salvar cliente sem email
 - 2025-04-14 fix typo no mapper de categoria
+- 2025-04-14 chore: node 20 no dockerfile
