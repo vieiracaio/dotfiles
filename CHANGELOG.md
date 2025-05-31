@@ -69,3 +69,4 @@
 - 2025-04-14 nao deixa salvar cliente sem email
 - 2025-04-14 fix typo no mapper de categoria
 - 2025-04-14 chore: node 20 no dockerfile
+- 2025-05-30 chore: gitignore .env
