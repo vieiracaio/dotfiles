@@ -70,3 +70,4 @@
 - 2025-04-14 fix typo no mapper de categoria
 - 2025-04-14 chore: node 20 no dockerfile
 - 2025-05-30 chore: gitignore .env
+- 2025-08-11 chore: docker-compose postgres
