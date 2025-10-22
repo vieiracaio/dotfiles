@@ -72,3 +72,4 @@
 - 2025-05-30 chore: gitignore .env
 - 2025-08-11 chore: docker-compose postgres
 - 2025-08-11 simplifica o client http
+- 2025-10-21 extrai helper de dinheiro
