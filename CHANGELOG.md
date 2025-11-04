@@ -74,3 +74,4 @@
 - 2025-08-11 simplifica o client http
 - 2025-10-21 extrai helper de dinheiro
 - 2025-10-21 wip parser nfe
+- 2025-11-04 feat: recibo em pdf (html tosco)
