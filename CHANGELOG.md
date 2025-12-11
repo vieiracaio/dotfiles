@@ -75,3 +75,4 @@
 - 2025-10-21 extrai helper de dinheiro
 - 2025-10-21 wip parser nfe
 - 2025-11-04 feat: recibo em pdf (html tosco)
+- 2025-12-10 feat: recibo em pdf (html tosco)
