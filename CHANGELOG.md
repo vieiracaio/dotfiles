@@ -78,3 +78,4 @@
 - 2025-12-10 feat: recibo em pdf (html tosco)
 - 2025-12-10 rascunho da tela de dashboard
 - 2025-12-10 feat: busca por razao social
+- 2025-12-18 feat: exporta csv do mes
