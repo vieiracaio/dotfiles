@@ -79,3 +79,4 @@
 - 2025-12-10 rascunho da tela de dashboard
 - 2025-12-10 feat: busca por razao social
 - 2025-12-18 feat: exporta csv do mes
+- 2025-12-19 rollback parcial do filtro de mes
