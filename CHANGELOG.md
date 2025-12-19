@@ -83,3 +83,4 @@
 - 2025-12-19 fix: timezone America/Sao_Paulo no relatorio
 - 2025-12-19 rollback parcial do filtro de mes
 - 2025-12-19 corrige paginacao quebrada na listagem
+- 2025-12-19 chore: node 20 no dockerfile
