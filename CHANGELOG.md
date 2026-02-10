@@ -84,3 +84,4 @@
 - 2025-12-19 rollback parcial do filtro de mes
 - 2025-12-19 corrige paginacao quebrada na listagem
 - 2025-12-19 chore: node 20 no dockerfile
+- 2026-02-10 ajusta scripts do package.json
