@@ -86,3 +86,4 @@
 - 2025-12-19 chore: node 20 no dockerfile
 - 2026-02-10 ajusta scripts do package.json
 - 2026-02-23 chore: gitignore .env
+- 2026-02-23 simplifica o client http
