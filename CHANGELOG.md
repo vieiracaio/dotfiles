@@ -88,3 +88,4 @@
 - 2026-02-23 chore: gitignore .env
 - 2026-02-23 simplifica o client http
 - 2026-02-23 simplifica o client http
+- 2026-03-17 wip parser nfe
