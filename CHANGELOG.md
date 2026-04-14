@@ -89,3 +89,4 @@
 - 2026-02-23 simplifica o client http
 - 2026-02-23 simplifica o client http
 - 2026-03-17 wip parser nfe
+- 2026-04-14 adiciona testes do parser
