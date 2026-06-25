@@ -92,3 +92,4 @@
 - 2026-04-14 adiciona testes do parser
 - 2026-04-22 rascunho da tela de dashboard
 - 2026-05-14 feat: recibo em pdf (html tosco)
+- 2026-06-25 feat: recibo em pdf (html tosco)
