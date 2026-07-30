@@ -94,3 +94,4 @@
 - 2026-05-14 feat: recibo em pdf (html tosco)
 - 2026-06-25 feat: recibo em pdf (html tosco)
 - 2026-06-25 feat: soft delete em clientes
+- 2026-07-30 fix: timezone America/Sao_Paulo no relatorio
