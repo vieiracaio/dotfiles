@@ -1,3 +1,5 @@
 # dotfiles
 
-setup pessoal. nada demais.
+zsh, gitconfig, nvim. uso pessoal.
+
+
